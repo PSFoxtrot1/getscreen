@@ -9,7 +9,8 @@
 #учетная запись getscreen.me \ getscreen.ru
 
 #powershell
-#браузер
+
+#веб браузер
 
 # Установка
 #получить API ключ https://getscreen.ru/dashboard/integrate/api
